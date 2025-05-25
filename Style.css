@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
+section {
+  border-bottom: 1px solid hsl(0, 0%, 80%);
+  padding-bottom: 20px;
+} 
+
+.soft-yellow {
+  background-color: #c7bf76;
+}
